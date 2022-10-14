@@ -17,26 +17,15 @@
 Interested in joining our team? 
 Click on the job posting links below, or go to the [UCLA Health Recruitment page](https://www.uclahealthcareers.org/home-page-it-personalized/) and enter the listed job ID.
 
-- **Dev/Ops Engineer** - [Apply here!](https://www.uclahealthcareers.org/job/11171007/development-operations-engineer-los-angeles-ca/)
-  <br><sub>&emsp; **Openings: 1** &ensp;|&ensp;Job ID: 8012 </sub>
-
-- **Senior Software Engineer** - [Apply here!](https://www.uclahealthcareers.org/job/11325955/senior-software-engineer-los-angeles-ca/)
-  <br><sub>&emsp; **Openings: 1** &ensp;|&ensp; Job ID: 8534 </sub>
-  
-- **Junior Software Engineer** - [Apply here!](https://www.uclahealthcareers.org/job/14126917/jr-software-engineer-jonsson-cancer-center-los-angeles-ca/)
-  <br><sub>&emsp; **Openings: 2** &ensp;|&ensp; Job ID: 19691 </sub>
-  
-- **Senior Bioinformatician** - [Apply here!](https://www.uclahealthcareers.org/job/11325954/senior-bioinformatician-los-angeles-ca/)
-  <br><sub>&emsp; **Openings: 2** &ensp;|&ensp; Job ID: 8531 </sub>
-
-- **Biostatistician** - [Apply here!](https://www.uclahealthcareers.org/job/16252430/biostatistician-los-angeles-ca/)
-  <br><sub>&emsp; **Openings: 1** &ensp;|&ensp; Job ID: 26901 </sub>
-
-- **Scientific Research Associate** - [Apply here!](https://www.uclahealthcareers.org/job/10427486/scientific-research-associate-los-angeles-ca/)
-  <br><sub>&emsp; **Openings: 1** &ensp;|&ensp; Job ID: 4869 </sub>
-
-- **Postdoctoral Fellow** - [Apply here!](https://recruit.apo.ucla.edu/)
-  <br><sub>&emsp; **Openings: Many!** &ensp;|&ensp; Job ID: JPF07220 </sub>
+| Job Title | Job ID | Application Link | Openings |
+| :---------: | :------: | :----------------: | ----------------: |
+|Dev/Ops Engineer | 8012 | [Apply here!](https://www.uclahealthcareers.org/job/11171007/development-operations-engineer-los-angeles-ca/) |  1 |
+|Senior Software Engineer | 8534 |[Apply here!](https://www.uclahealthcareers.org/job/11325955/senior-software-engineer-los-angeles-ca/) | 1 |
+|Junior Software Engineer | 19691 | [Apply here!](https://www.uclahealthcareers.org/job/14126917/jr-software-engineer-jonsson-cancer-center-los-angeles-ca/) | 2 |
+| Senior Bioinformatician | 8531 | [Apply here!](https://www.uclahealthcareers.org/job/11325954/senior-bioinformatician-los-angeles-ca/) | 2 |
+| Biostatistician | 26901 | [Apply here!](https://www.uclahealthcareers.org/job/16252430/biostatistician-los-angeles-ca/) | 1 | 
+| Scientific Research Associate | 4869 | [Apply here!](https://www.uclahealthcareers.org/job/10427486/scientific-research-associate-los-angeles-ca/) | 1 |
+| Postdoctoral Fellow | JPF07220 | [Apply here!](https://recruit.apo.ucla.edu/) | many |
 
 
 <sub>*Updated as of August 15, 2022*</sub>
