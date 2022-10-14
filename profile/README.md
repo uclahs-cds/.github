@@ -1,4 +1,15 @@
-## Hi there 👋
+## :hospital: Welcome to UCLA JCCC - Cancer Data Science 
+This is the GitHub page for UCLA JCCC Cancer Data Science (CDS) where you can find our R packages, docker images, and Nextflow pipelines. 
+
+
+
+### :star: Popular Tools 
+| R Package | Description | Resources | CRAN? |
+| :--------: | ----------- | :--------: | :----: |
+| [BoutrosLab.plotting.general](https://github.com/uclahs-cds/public-R-BoutrosLab-plotting-general) | Contains several plotting functions such as barplots, scatterplots, and heatmaps. Also includes functions to combine plots and assist in the creation of these plots. | [Docs](https://uclahs-cds.github.io/public-R-BoutrosLab-plotting-general/) | [CRAN](https://cloud.r-project.org/web/packages/BoutrosLab.plotting.general/index.html) |
+| [BoutrosLab.statistics.general](https://github.com/uclahs-cds/public-R-BoutrosLab-statistics-general) | Contains statistical functions | [Docs](https://uclahs-cds.github.io/public-R-BoutrosLab-statistics-general/index.html) | No |
+
+
 
 <!--
 
@@ -12,7 +23,7 @@
 -->
 
 
-## Join our team!
+## :briefcase: Join our team! 
 
 Interested in joining our team? 
 Click on the job posting links below, or go to the [UCLA Health Recruitment page](https://www.uclahealthcareers.org/home-page-it-personalized/) and enter the listed job ID.
