@@ -21,7 +21,7 @@ read about our recent [research areas](https://www.uclahealth.org/departments/ur
 
 --- 
 
-## Tools
+## :bar_chart: Tools
 From this organization GitHub page, you can find our **R packages, Docker images, and Nextflow pipelines.** 
 
 Whether you are an external researcher, one of our collaborators, or someone hoping to [join our team](#briefcase-join-our-team), we encourage you to use our tools and create issues for any problems you may encounter. Together with your feedback, we can improve our tools and make them more accessible for the next generation of researchers, who will use these techniques to cure cancer and improve human health and well-being in ways we can’t imagine today!
