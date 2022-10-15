@@ -22,17 +22,17 @@ read about our recent [research areas](https://www.uclahealth.org/departments/ur
 --- 
 
 ## :bar_chart: Tools
-From this organization GitHub page, you can find our **R packages, Docker images, and Nextflow pipelines.** 
+From this organization GitHub page, you can find our **R packages** 
 
 Whether you are an external researcher, one of our collaborators, or someone hoping to [join our team](#briefcase-join-our-team), we encourage you to use our tools and create issues for any problems you may encounter. Together with your feedback, we can improve our tools and make them more accessible for the next generation of researchers, who will use these techniques to cure cancer and improve human health and well-being in ways we can’t imagine today!
 
 
 ### :star: Most Popular 
 | R Package | Description | Resources | CRAN? |
-| :--------: | ----------- | :--------: | :----: |
-| [BoutrosLab.plotting.general](https://github.com/uclahs-cds/public-R-BoutrosLab-plotting-general) | Contains several plotting functions such as barplots, scatterplots, and heatmaps. Also includes functions to combine plots and assist in the creation of these plots. | [Docs](https://uclahs-cds.github.io/public-R-BoutrosLab-plotting-general/) | [CRAN](https://cloud.r-project.org/web/packages/BoutrosLab.plotting.general/index.html) |
-| [public-R-VennDiagram](https://github.com/uclahs-cds/public-R-VennDiagram)|A set of functions to generate high-resolution Venn and Euler plots. Includes handling for several special cases, including two-case scaling, and extensive customization of plot shape and structure.| [Docs](https://github.com/uclahs-cds/public-R-VennDiagram/tree/main/man) | No |
-| [BoutrosLab.statistics.general](https://github.com/uclahs-cds/public-R-BoutrosLab-statistics-general) | Contains statistical functions | [Docs](https://uclahs-cds.github.io/public-R-BoutrosLab-statistics-general/index.html) | No |
+| :--------: | ----------- | :-------- | :----: |
+| [VennDiagram](https://github.com/uclahs-cds/public-R-VennDiagram)|A set of functions to generate high-resolution Venn and Euler plots. Includes handling for several special cases, including two-case scaling, and extensive customization of plot shape and structure.| <ul><li>[Docs](https://github.com/uclahs-cds/public-R-VennDiagram/tree/main/man)</li><li>[Publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1281-5)</li></ul>  | [CRAN](https://cran.r-project.org/web/packages/VennDiagram/index.html)|
+| [BoutrosLab.plotting.general](https://github.com/uclahs-cds/public-R-BoutrosLab-plotting-general) | Contains several plotting functions such as barplots, scatterplots, and heatmaps. Also includes functions to combine plots and assist in the creation of these plots. | <ul><li>[Docs](https://uclahs-cds.github.io/public-R-BoutrosLab-plotting-general/)</li><li>[Publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2610-2)</li></ul>  | [CRAN](https://cloud.r-project.org/web/packages/BoutrosLab.plotting.general/index.html) |
+
 
 ---
 
