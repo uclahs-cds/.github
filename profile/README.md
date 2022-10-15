@@ -31,6 +31,7 @@ Whether you are an external researcher, one of our collaborators, or someone hop
 | R Package | Description | Resources | CRAN? |
 | :--------: | ----------- | :--------: | :----: |
 | [BoutrosLab.plotting.general](https://github.com/uclahs-cds/public-R-BoutrosLab-plotting-general) | Contains several plotting functions such as barplots, scatterplots, and heatmaps. Also includes functions to combine plots and assist in the creation of these plots. | [Docs](https://uclahs-cds.github.io/public-R-BoutrosLab-plotting-general/) | [CRAN](https://cloud.r-project.org/web/packages/BoutrosLab.plotting.general/index.html) |
+| [public-R-VennDiagram](https://github.com/uclahs-cds/public-R-VennDiagram)|A set of functions to generate high-resolution Venn and Euler plots. Includes handling for several special cases, including two-case scaling, and extensive customization of plot shape and structure.| [Docs](https://github.com/uclahs-cds/public-R-VennDiagram/tree/main/man) | No |
 | [BoutrosLab.statistics.general](https://github.com/uclahs-cds/public-R-BoutrosLab-statistics-general) | Contains statistical functions | [Docs](https://uclahs-cds.github.io/public-R-BoutrosLab-statistics-general/index.html) | No |
 
 ---
