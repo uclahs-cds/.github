@@ -29,7 +29,7 @@ From this organization GitHub page, you can find our **R packages**
 ### :star: Most Popular 
 | R Package | Description | Resources | CRAN? |
 | :--------: | ----------- | :-------- | :----: |
-| [VennDiagram](https://github.com/uclahs-cds/public-R-VennDiagram)|A set of functions to generate high-resolution Venn and Euler plots. Includes handling for several special cases, including two-case scaling, and extensive customization of plot shape and structure.| <ul><li>[Docs](https://github.com/uclahs-cds/public-R-VennDiagram/tree/main/man)</li><li>[Publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1281-5)</li></ul>  | [CRAN](https://cran.r-project.org/web/packages/VennDiagram/index.html)|
+| [VennDiagram](https://github.com/uclahs-cds/public-R-VennDiagram)|A set of functions to generate high-resolution Venn and Euler plots. Includes handling for several special cases, such as two-case scaling, and extensive customization of plot shape and structure.| <ul><li>[Docs](https://github.com/uclahs-cds/public-R-VennDiagram/tree/main/man)</li><li>[Publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1281-5)</li></ul>  | [CRAN](https://cran.r-project.org/web/packages/VennDiagram/index.html)|
 | [BoutrosLab.plotting.general](https://github.com/uclahs-cds/public-R-BoutrosLab-plotting-general) | Contains several plotting functions such as barplots, scatterplots, and heatmaps. Also includes functions to combine plots and assist in the creation of these plots. | <ul><li>[Docs](https://uclahs-cds.github.io/public-R-BoutrosLab-plotting-general/)</li><li>[Publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2610-2)</li></ul>  | [CRAN](https://cloud.r-project.org/web/packages/BoutrosLab.plotting.general/index.html) |
 
 
@@ -50,4 +50,4 @@ Click on the job posting links below, or go to the [UCLA Health Recruitment page
 | Postdoctoral Fellow | JPF07220 | [Apply here!](https://recruit.apo.ucla.edu/) | many |
 
 
-<sub>*Updated as of August 15, 2022*</sub>
+<sub>*Updated as of October 20, 2022*</sub>
