@@ -11,9 +11,11 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-As “Big Data” cancer researchers, we both apply existing techniques and continuously work to improve them and create new methods to create clinically useful diagnostics that personalize therapy.
+As “Big Data” researchers, we both apply existing techniques and continuously work to improve them and create new methods. Much of our work to date has focused on prostate cancer, but we are increasingly applying the same techniques to cancers of the kidney, bladder and other sites, and discovering fascinating commonalities across them.
 
-Much of our work to date has focused on prostate cancer, but we are increasingly applying the same techniques to cancers of the kidney, bladder and other sites, and discovering fascinating commonalities across them.
+Whether you are an external researcher, one of our collaborators, or someone hoping to [join our team](#briefcase-join-our-team), we encourage you to use our tools and create issues for any problems you may encounter. Together with your feedback, we can improve our tools and make them more accessible for the next generation of researchers, who will use these techniques to cure cancer and improve human health and well-being in ways we can’t imagine today!
+
+
 
 ***Want to learn more?***
 <br>Go to the [Cancer Data Sciences page](https://www.uclahealth.org/departments/urology/iuo/research/faculty-labs/dr-paul-boutros-lab) where you can
@@ -23,9 +25,6 @@ read about our recent [research areas](https://www.uclahealth.org/departments/ur
 
 ## :bar_chart: Tools
 From this organization GitHub page, you can find our **R packages** 
-
-Whether you are an external researcher, one of our collaborators, or someone hoping to [join our team](#briefcase-join-our-team), we encourage you to use our tools and create issues for any problems you may encounter. Together with your feedback, we can improve our tools and make them more accessible for the next generation of researchers, who will use these techniques to cure cancer and improve human health and well-being in ways we can’t imagine today!
-
 
 ### :star: Most Popular 
 | R Package | Description | Resources | CRAN? |
