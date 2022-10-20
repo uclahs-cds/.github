@@ -37,7 +37,7 @@ From this organization GitHub page, you can find our **R packages**
 
 ## :briefcase: Join our team! 
 
-Click on the job posting links below, or go to the [UCLA Health Recruitment page](https://www.uclahealthcareers.org/home-page-it-personalized/) and enter the listed job ID.
+Click on the job posting links below, or go to the [UCLA Health Recruitment page](https://www.uclahealthcareers.org/home-page-it-personalized/) and enter the listed job ID. Postdoctoral Fellows should go to [UCLA Recruit](https://recruit.apo.ucla.edu/).
 
 | Job Title | Job ID | Application Link | Openings |
 | :---------: | :------: | :----------------: | ----------------: |
