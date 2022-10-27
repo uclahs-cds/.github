@@ -37,7 +37,7 @@ From this organization GitHub page, you can find our **R packages**
 
 ## :briefcase: Join our team! 
 
-Click on the job posting links below, or go to the [UCLA Health Recruitment page](https://www.uclahealthcareers.org/home-page-it-personalized/) and enter the listed job ID. Postdoctoral Fellows should go to [UCLA Recruit](https://recruit.apo.ucla.edu/).
+To apply, you may either click on the job posting links below, enter the listed job ID on the [UCLA Health Recruitment page](https://www.uclahealthcareers.org/home-page-it-personalized/) or [UCLA Recruit page](https://recruit.apo.ucla.edu/) for Postdoctoral Fellows, or email Paul at pboutros@mednet.ucla.edu.
 
 | Job Title | Job ID | Application Link | Openings |
 | :---------: | :------: | :----------------: | ----------------: |
