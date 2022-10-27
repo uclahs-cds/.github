@@ -44,10 +44,10 @@ To apply, you may either click on the job posting links below, enter the listed 
 |Dev/Ops Engineer | 8012 | [Apply here!](https://www.uclahealthcareers.org/job/11171007/development-operations-engineer-los-angeles-ca/) |  1 |
 |Senior Software Engineer | 8534 |[Apply here!](https://www.uclahealthcareers.org/job/11325955/senior-software-engineer-los-angeles-ca/) | 1 |
 |Junior Software Engineer | 19691 | [Apply here!](https://www.uclahealthcareers.org/job/14126917/jr-software-engineer-jonsson-cancer-center-los-angeles-ca/) | 2 |
-| Senior Bioinformatician | 8531 | [Apply here!](https://www.uclahealthcareers.org/job/11325954/senior-bioinformatician-los-angeles-ca/) | 2 |
-| Biostatistician | 26901 | [Apply here!](https://www.uclahealthcareers.org/job/16252430/biostatistician-los-angeles-ca/) | 1 | 
+| Senior Bioinformatician | 8531 | [Apply here!](https://www.uclahealthcareers.org/job/11325954/senior-bioinformatician-los-angeles-ca/) | 3 |
 | Scientific Research Associate | 4869 | [Apply here!](https://www.uclahealthcareers.org/job/10427486/scientific-research-associate-los-angeles-ca/) | 1 |
+| Assistant to the Director | 28907 | [Apply here!](https://www.uclahealthcareers.org/job/16822696/assistant-to-the-director-los-angeles-ca/) | 1 |
 | Postdoctoral Fellow | JPF07220 | [Apply here!](https://recruit.apo.ucla.edu/) | many |
 
 
-<sub>*Updated as of October 20, 2022*</sub>
+<sub>*Updated as of October 27, 2022*</sub>
